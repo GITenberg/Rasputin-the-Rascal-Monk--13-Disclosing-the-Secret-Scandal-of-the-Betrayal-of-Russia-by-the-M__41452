@@ -1,0 +1,33 @@
+_repo: Rasputin-the-Rascal-Monk--13-Disclosing-the-Secret-Scandal-of-the-Betrayal-of-Russia-by-the-M__41452
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Le Queux, William
+    aliases:
+    - Queux, William Le
+    - Queux, William Tufnell Le
+    birthdate: 1864
+    deathdate: 1927
+    gutenberg_agent_id: '3141'
+    url: http://www.gutenberg.org/2009/agents/3141
+    wikipedia: http://en.wikipedia.org/wiki/William_Le_Queux
+description: ''
+gutenberg_issued: '2012-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41452'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Soviet Union -- History -- Revolution, 1917-1921'
+- !lcc 'DK'
+- !lcsh 'Rasputin, Grigorii Efimovich, 1869-1916'
+title: "Rasputin the Rascal Monk\r\nDisclosing the Secret Scandal of the Betrayal\
+  \ of Russia by the Mock-Monk Grichka and the Consequent Ruin of the Romanoffs. With\
+  \ official documents revealed and recorded for the first time."
+url: http://www.gutenberg.org/ebooks/41452
